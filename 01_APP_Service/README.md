@@ -1,4 +1,4 @@
-##Serviço de Aplicativo do Azure
+## Serviço de Aplicativo do Azure
 Serviço com base em HTTP para hospedagem de aplicativos Web, APIs REST back-ends móveis.
 Ambientes Windows ou Linux
 
@@ -11,7 +11,7 @@ Sincronização automatica de codigo para Azure Devops, GitHub, Bitbucket e FTP.
 - **Slots de implantação**
 São aplicativos dinâmicos que possuem seus próprios nomes de hosts. Para as camadas Standard, Premium ou Isolado, slots de desenvolvimento ou produção.
 
-####Planos Serviço de Aplicativo do Azure
+#### Planos Serviço de Aplicativo do Azure
 Define um conjunto de recursos de computação para um aplicativo Web ser executado, podendo ter um ou mais, e até mesmo um Functions
 **Define:**
 
